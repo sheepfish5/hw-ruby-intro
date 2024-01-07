@@ -1,4 +1,4 @@
-source 'http://rubygems.org'
+source 'https://mirrors.tuna.tsinghua.edu.cn/rubygems'
 
 ruby "2.6.6"
 
